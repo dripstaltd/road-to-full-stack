@@ -30,6 +30,7 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 Here is the list of tasks that I've successfully completed:
 
 - [x] **HTML Basics**: Refreshed HTML tags, structure, and best practices.
+- [x] **Readme Setup**: Setup a readme file and made changes to a branch rather than main.
 
 ---
 

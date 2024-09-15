@@ -9,7 +9,7 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 ### Pre-Course Refreshers
 
 - [ ] **Git & GitHub**: [what-is-version-control](https://github.com/resources/articles/software-development/what-is-version-control)
-- [ ] **HTML & CSS**: Brush up on the basics of HTML and CSS, including Flexbox, Grid, and responsive design.
+- [ ] **HTML & CSS**: Brush up on the basics of HTML and CSS, including Flexbox, Grid, and responsive design. [kevin-powell](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 - [ ] **JavaScript Fundamentals**: Revisit JavaScript basics, including variables, functions, loops, and DOM manipulation.
 - [ ] **Command Line**: Get comfortable navigating and using commands in the terminal.
 - [ ] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.

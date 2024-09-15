@@ -19,11 +19,13 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 ### Bootcamp Topics
 
 - [ ] **React Basics**: Learn the fundamentals of React, including components, state, and props.
-- [ ] **Node.js & Express**: Dive into backend development with Node.js and Express.
+- [ ] **Node.js & Express**: Dive into backend development with Koa, MongoDB, Node.js and Express.
 - [ ] **Database Management**: Explore SQL and NoSQL databases, focusing on MongoDB and PostgreSQL.
 - [ ] **APIs**: Understand how to build and consume APIs, including RESTful and GraphQL.
 - [ ] **Authentication**: Implement user authentication and authorization using JWT and OAuth.
 - [ ] **Deployment**: Learn how to deploy applications using services like Heroku, Netlify, or Vercel.
+- [ ] **Other learnings**: Understand Redis, Docker and Redux
+- [ ] **Front-End Frameworks**: Brush up on React and become understand Angular
 
 ## 🌟 Completed
 
@@ -31,6 +33,7 @@ Here is the list of tasks that I've successfully completed:
 
 - [x] **HTML Basics**: Refreshed HTML tags, structure, and best practices.
 - [x] **Readme Setup**: Setup a readme file and made changes to a branch rather than main.
+- [x] **"aha" Moments Setup**: Created a file to log any "aha" moments.
 
 ---
 
@@ -45,7 +48,6 @@ Below are some resources that I've found helpful along the way:
 
 ## ✍️ Notes
 
-- Create a file to log any "aha" moments.
 - Document any challenges faced and how they were overcome.
 
 ## 🤝 Contributing

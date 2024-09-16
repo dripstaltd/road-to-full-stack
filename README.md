@@ -34,6 +34,7 @@ Here is the list of tasks that I've successfully completed:
 - [x] **HTML Basics**: Refreshed HTML tags, structure, and best practices.
 - [x] **Readme Setup**: Setup a readme file and made changes to a branch rather than main.
 - [x] **"aha" Moments Setup**: Created a file to log any "aha" moments.
+- [x] **Emmet**: Brushed up on emmet for faster html. [Web Symplified Dev](https://www.youtube.com/watch?v=V8vizNQKtx0&t=260s)
 
 ---
 

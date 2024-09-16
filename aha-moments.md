@@ -2,11 +2,13 @@
 
 ## 😂 AHA Moments
 
-- **css**: Websites are responsive, if they are not its our own making.
+-   **css**: Websites are responsive, if they are not its our own making.
 
 ## 👨‍🎓 New Learnings
 
-- **css**: Using percentages & avoiding heights
+-   **css**: Using percentages & avoiding heights.
+-   **css**: font-size: viewport width is interesting on titles, not type.
+-   **css**: font-size: viewport min is also interesting on titles, not type.
 
 ---
 

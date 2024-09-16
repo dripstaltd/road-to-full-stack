@@ -1,0 +1,53 @@
+/* NOTES:
+1) Websites are naturally responsive
+2) Avoid Heights
+3) em = * font-size
+
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.parent {
+  background-color: #23424a;
+  padding: 50px;
+  color: white;
+
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 5em; /* 16 * 5 = 80px*/
+}
+
+.child {
+  /* background-color: #38cfd9;
+  width: 50%; */
+}
+
+.cta {
+  background: #f06b4c;
+  padding: 50px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Responsive button using what ive learnt from em and rem; */
+.cta__btn {
+  color: rgba(0, 0, 0, 0.8);
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  padding: 0.5em 1.5em;
+  background: white;
+  transition: background 250ms;
+  font-size: 1.25rem; /* Controls the size of the button */
+}
+
+.cta__btn:hover {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+}

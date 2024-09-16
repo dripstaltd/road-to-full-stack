@@ -6,7 +6,7 @@
 
 ## 👨‍🎓 New Learnings
 
-- **css**: em and rem (root em)
+- **css**: Using percentages & avoiding heights
 
 ---
 

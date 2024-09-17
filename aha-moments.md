@@ -13,6 +13,7 @@
 - **css**: Using percentages & avoiding heights.
 - **css**: font-size: viewport width is interesting on titles, not type.
 - **css**: font-size: viewport min is also interesting on titles, not type.
+- **css**: img {align-self: flex-start} to retain size inside a flex element.
 - **BEM**: [BEM Naming Convention](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 
 ---

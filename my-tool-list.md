@@ -7,8 +7,7 @@
 ## ⚙️ Tools
 
 - [Gradients](https://uigradients.com/)
-
---
+- ## [Can I Use](https://caniuse.com/): Check if properties are supported by browsers.
 
 ## 💾 Software
 

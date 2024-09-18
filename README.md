@@ -8,8 +8,7 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 
 ### Pre-Course Refreshers
 
-- [ ] **Git & GitHub**: [what-is-version-control](https://github.com/resources/articles/software-development/what-is-version-control)
-- [ ] **HTML & CSS**: HTML and CSS basics, including Flexbox, Grid, and responsive design. [kevin-powell](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
+- [ ] **HTML & CSS**: HTML and CSS basics, including Flexbox, Grid, and responsive design.
 - [ ] **JavaScript Fundamentals**: Revisit JavaScript basics, including variables, functions, loops, and DOM manipulation.
 - [ ] **Command Line**: Get comfortable navigating and using commands in the terminal.
 - [ ] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.
@@ -20,12 +19,13 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 
 - [ ] **React Basics**: Learn the fundamentals of React, including components, state, and props.
 - [ ] **Node.js & Express**: Dive into backend development with Koa, MongoDB, Node.js and Express.
-- [ ] **Database Management**: Explore SQL and NoSQL databases, focusing on MongoDB and PostgreSQL.
-- [ ] **APIs**: Understand how to build and consume APIs, including RESTful and GraphQL.
+- [ ] **Database Management**: Explore SQL further and NoSQL databases, focusing on MongoDB and PostgreSQL.
+- [ ] **APIs**: Gain a better understanding with how to build and consume APIs, including RESTful and GraphQL.
 - [ ] **Authentication**: Implement user authentication and authorization using JWT and OAuth.
 - [ ] **Deployment**: Learn how to deploy applications using services like Heroku, Netlify, or Vercel.
 - [ ] **Other learnings**: Understand Redis, Docker and Redux
 - [ ] **Front-End Frameworks**: Brush up on React and become understand Angular
+- [ ] **PHP**: Brush up on PHP
 
 ## 🌟 Completed
 
@@ -46,6 +46,9 @@ Below are some resources that I've found helpful along the way:
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy](https://www.codecademy.com/)
+- [Web Symplified Dev](https://www.youtube.com/watch?v=V8vizNQKtx0&t=260s)
+- [what-is-version-control](https://github.com/resources/articles/software-development/what-is-version-control)
+- [kevin-powell](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 
 ## ✍️ Notes
 
@@ -58,9 +61,12 @@ If you have any suggestions or resources that could help in my journey, please f
 
 ## 🥅 Goals
 
-1. Complete all refreshers before boot camp starts.
-2. Build a full-stack project using the skills learned.
-3. Secure a full-stack developer role after the boot camp.
+1. Deside whether or not a bootcamp is what i need.
+2. Complete all refreshers before boot camp starts.
+3. Become familiar with all course topics before I attend.
+4. Build a full-stack project using the skills learned.
+5. Secure a full-stack developer role after the boot camp.
+
 
 ---
 

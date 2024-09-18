@@ -50,6 +50,7 @@ Below are some resources that I've found helpful along the way:
 ## ✍️ Notes
 
 - Document any challenges faced and how they were overcome.
+- I need more practice with Grid Layouts
 
 ## 🤝 Contributing
 

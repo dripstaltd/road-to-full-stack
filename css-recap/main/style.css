@@ -1,23 +1,8 @@
-/* 
-////// For this challenge ///////
-
-- You will have to modify the HTML
-
-- You can add new classes in the HTML
-  if you need to
-
-// Requirements
-1. The headings in the first row must be
-   a different color
-2. The two .col at the bottom must go next
-   to one another
-3. The section at the bottom should have
-   a dark background color and a different
-   color of text
-4. I've removed the "gap" that I created,
-   so you'll have to add it back in
-
-   */
+:root {
+  --clr-dark: #0f172a;
+  --clr-light: #f1f5f9;
+  --clr-accent: #e11d48;
+}
 
 *,
 *::before,
@@ -27,10 +12,20 @@
 
 body {
   margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  word-spacing: 1.4px;
   font-family: "Roboto", sans-serif;
-  font-size: 1.3rem;
+  color: var(--clr-dark);
+  background-color: var(--clr-light);
 }
 
 img {
   max-width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  border: 10px solid var(--clr-dark);
 }

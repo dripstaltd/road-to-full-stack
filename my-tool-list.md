@@ -13,6 +13,9 @@
 
 - **Just Color Picker**: [jcp](https://just-color-picker.en.download.it/) to get any color anyone on your screen.
 - **Random User Generator**:[rug](https://randomuser.me/) to get a random generated user data.
+- **Visual Studio Code**: Code editor
+- **Chrome**: Dev tools
+- **FireFox**: As of 19/09/2024 I use Firefox for working with CSS!!
 
 --
 

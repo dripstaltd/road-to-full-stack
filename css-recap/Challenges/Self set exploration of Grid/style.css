@@ -1,0 +1,76 @@
+:root {
+  --clr-dark: #0f172a;
+  --clr-light: #f1f5f9;
+  --clr-accent: #e11d48;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 5em 0 0 0;
+  padding: 0;
+  line-height: 1.6;
+  word-spacing: 1.4px;
+  font-family: "Roboto", sans-serif;
+  color: var(--clr-dark);
+  background-color: var(--clr-light);
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  border: 10px solid var(--clr-dark);
+}
+
+.item {
+  padding: 0.5em;
+  background-color: #fb7185;
+  font-weight: 700;
+  color: var(--clr-light);
+  border: 10px solid var(--clr-accent);
+}
+
+/* IMPLICIT GRID: Adding items outside of the defined grid is called an implicit grid (doesn't inherit the values from the grid-template-rows or grid-template-columns properties*/
+
+/* Fix: use grid-auto-rows*/
+
+.container {
+  display: grid;
+  grid-template-rows: 100px 100px 100px 100px 100px 100px;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
+  /* Implicit grid control - additional undefined grids*/
+  grid-auto-flow: column; /* new default is a column */
+  grid-auto-columns: 100px;
+}
+
+/* setting the size of the item in the grid */
+.item-1 {
+  grid-row: 1 / 3;
+  grid-column: 1 / 7;
+}
+
+/* Span if you dont mind not anchoring the item in a specific position */
+/* using span */
+
+/* .item-2 {
+  grid-row: span 2;
+  grid-column: span 2;
+} */
+
+.item-3 {
+  /* grid-area: row-start / col-start / row-end / col-end; */
+  grid-area: 3 / 1 / -1 / -1;
+}
+
+.item-2 {
+  grid-area: 2 / 4 / 4 / 6;
+  z-index: 1;
+}

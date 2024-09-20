@@ -13,32 +13,50 @@
   <body>
     <!-- Header -->
     <header>
-      <div class="nav">
-        <ul class="nav__list">
-          <li class="nav__item"><a href="#" class="nav__link"></a>Home</li>
-          <li class="nav__item"><a href="#" class="nav__link"></a>About</li>
-          <li class="nav__item"><a href="#" class="nav__link"></a>Contact</li>
-          <li class="nav__item"><a href="#" class="nav__link"></a>Sign In</li>
-          <li class="nav__item">
-            <a href="#" class="nav__link nav__link--button">Sign Up</a>
-          </li>
-        </ul>
+      <div class="container row">
+        <a class="logo" href="#">
+          <img src="img/logo.svg" alt="conquering responsive layouts" />
+        </a>
+        <nav class="nav">
+          <ul class="nav__list">
+            <li class="nav__item"><a href="#" class="nav__link">Home</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">About</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">Contact</a></li>
+            <!-- <li class="nav__item nav__item--push-right"> -->
+          </ul>
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a href="#" class="nav__link">Sign In</a>
+            </li>
+            <li class="nav__item">
+              <a href="#" class="nav__link nav__link--button">Sign Up</a>
+            </li>
+          </ul>
+        </nav>
       </div>
     </header>
     <!-- Hero Section -->
     <section class="hero">
-      <div class="container">
+      <div class="container row">
         <div class="hero__text">
-          <h1>Responsive layouts don’t have to be a struggle</h1>
-          <p>
+          <h1 class="hero__title">
+            Responsive layouts don’t have to be a struggle
+          </h1>
+          <p class="hero__description">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam.
           </p>
           <a href="#" class="btn">I want to learn</a>
         </div>
+        <img
+          class="hero__img"
+          src="img/hero-img.jpg"
+          alt="UX design sketches"
+        />
       </div>
     </section>
+
     <section class="three-col">
       <div class="container row">
         <div class="col">

@@ -61,12 +61,10 @@ If you have any suggestions or resources that could help in my journey, please f
 
 ## 🥅 Goals
 
-1. Deside whether or not a bootcamp is what i need.
-2. Complete all refreshers before boot camp starts.
-3. Become familiar with all course topics before I attend.
-4. Build a full-stack project using the skills learned.
-5. Secure a full-stack developer role after the boot camp.
-
+1. Complete all refreshers before boot camp starts.
+2. Become familiar with all course topics before I attend.
+3. Build a full-stack project using the skills learned.
+4. Secure a full-stack developer role after the boot camp.
 
 ---
 

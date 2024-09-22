@@ -42,7 +42,6 @@ Here is the list of tasks that I've successfully completed:
 
 Below are some resources that I've found helpful along the way:
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy](https://www.codecademy.com/)

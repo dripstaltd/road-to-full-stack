@@ -15,6 +15,7 @@
 - **css**: font-size: viewport min is also interesting on titles, not type.
 - **css**: img {align-self: flex-start} to retain size inside a flex element.
 - **BEM**: [BEM Naming Convention](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+- **CSS**: [min-max-clamp-font-size](https://www.youtube.com/watch?v=U9VF-4euyRo)
 
 ---
 

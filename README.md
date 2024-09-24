@@ -48,6 +48,7 @@ Below are some resources that I've found helpful along the way:
 - [Web Symplified Dev](https://www.youtube.com/watch?v=V8vizNQKtx0&t=260s)
 - [what-is-version-control](https://github.com/resources/articles/software-development/what-is-version-control)
 - [kevin-powell](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
+- [Free Code Camp](https://www.freecodecamp.org)
 
 ## ✍️ Notes
 

@@ -41,6 +41,7 @@ section {
 .container {
   width: 90%;
   margin: 0 auto;
+  max-width: 1128px;
 }
 
 .section-title {
@@ -57,6 +58,10 @@ section {
   padding: 300px 0;
   text-align: center;
   color: #824936;
+  /* min-height: 100vh; */
+  min-height: 660px;
+  display: flex;
+  align-items: center;
 }
 
 .intro__text {
@@ -79,4 +84,21 @@ section {
 .section-four {
   background: #824936;
   color: #fff;
+}
+
+@media (min-width: 800px) {
+  /* Creating a flex container */
+  .row {
+    display: flex;
+    gap: 5em;
+  }
+
+  /* Creating equal width columns */
+  .col {
+    width: 100%;
+  }
+
+  .intro__title {
+    font-size: 3.75rem;
+  }
 }

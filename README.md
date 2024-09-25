@@ -49,6 +49,8 @@ Below are some resources that I've found helpful along the way:
 - [what-is-version-control](https://github.com/resources/articles/software-development/what-is-version-control)
 - [kevin-powell](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 - [Free Code Camp](https://www.freecodecamp.org)
+- [Css Grid Course](https://cssgrid.io/)
+- [Front End Mentor](https://frontendmentor.io)
 
 ## ✍️ Notes
 

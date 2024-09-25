@@ -8,10 +8,10 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 
 ### Pre-Course Refreshers
 
-- [ ] **HTML & CSS**: HTML and CSS basics, including Flexbox, Grid, and responsive design.
-- [ ] **JavaScript Fundamentals**: Revisit JavaScript basics, including variables, functions, loops, and DOM manipulation.
+- [x] **HTML & CSS**: HTML and CSS basics, including Flexbox, Grid, and responsive design.
+- [x] **JavaScript Fundamentals**: Revisit JavaScript basics, including variables, functions, loops, and DOM manipulation.
 - [ ] **Command Line**: Get comfortable navigating and using commands in the terminal.
-- [ ] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.
+- [x] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.
 - [ ] **Basic Algorithms**: Practice basic algorithm problems to improve problem-solving skills.
 - [ ] **Maths**: Practice basic arthmetics
 

@@ -1,0 +1,262 @@
+/* Challenge
+
+   Make the navigation layout work
+   on both mobile and large screens.
+
+   Mobile-first, so mobile styles first,
+   then add the large screen styles
+   inside the existing media query
+
+*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+}
+
+.section-title {
+  color: #87629a;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #23424a;
+  font-weight: 900;
+  background-color: #38cfd9;
+  padding: 0.75em 2em;
+  border-radius: 100px;
+}
+
+.btn:hover,
+.btn:focus {
+  opacity: 0.75;
+}
+
+.container {
+  width: 80%;
+  max-width: 1100px;
+  margin: 0 auto;
+  /* added for nav-toggle positioning */
+  position: relative;
+}
+
+header {
+  background: #136c72;
+  padding: 1em 0;
+  text-align: center;
+}
+
+/* Styling for Nav*/
+
+.nav {
+  width: 100%;
+}
+
+.nav-toggle {
+  cursor: pointer;
+  border: 0;
+  width: 3em;
+  height: 3em;
+  padding: 0em;
+  border-radius: 50%;
+  background: #072a2d;
+  color: white;
+  transition: opacity 250ms ease;
+
+  position: absolute;
+  left: 0;
+}
+
+.nav-toggle:focus,
+.nav-toggle:hover {
+  opacity: 0.75;
+}
+
+.hamburger {
+  width: 50%;
+  position: relative;
+}
+
+.hamburger,
+.hamburger::before,
+.hamburger::after {
+  display: block;
+  margin: 0 auto;
+  height: 3px;
+  background: white;
+}
+
+.hamburger::before,
+.hamburger::after {
+  content: "";
+  width: 100%;
+}
+
+.hamburger::before {
+  transform: translateY(-6px);
+}
+
+.hamburger::after {
+  transform: translateY(3px);
+}
+
+/* made changes here from video
+   to make it more accessible.
+   
+   Works the same :) */
+
+/* Styling for Nav */
+.nav {
+  visibility: hidden;
+  height: 0;
+  position: absolute;
+  /* border: solid 1px #f32; */
+  font-size: 1rem;
+}
+
+.nav--visible {
+  visibility: visible;
+  height: auto; /* Fixes bug with nav, if nav is open while resizing screen to small than 800*/
+  position: relative;
+  /* border: solid 1px #f32; */
+}
+
+.nav__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  /* border: solid 1px #f38732; */
+}
+
+.nav__list--primary {
+  margin-bottom: 2em;
+}
+
+.nav__item {
+  margin-top: 0.75em;
+}
+
+.nav__link {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.nav__link--button {
+  padding: 0.3em 0.7em;
+  background: #fff;
+  color: #136c72;
+  border-radius: 100px;
+}
+
+.nav__link:hover,
+.nav__link:focus {
+  opacity: 0.65;
+}
+
+.logo {
+  height: 30px;
+}
+
+/* Styling for Hero */
+.hero {
+  padding: 100px 0;
+  background-color: #23424a;
+  color: #fff;
+}
+
+.hero__img {
+  margin-top: 2em;
+}
+
+.hero p {
+  margin-bottom: 3em;
+}
+
+.main {
+  margin-top: 3em;
+}
+
+.sidebar {
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+  background-color: #136c72;
+}
+
+@media (min-width: 800px) {
+  .nav-toggle {
+    display: none;
+  }
+
+  .nav {
+    position: relative;
+    visibility: visible;
+    display: flex;
+    align-items: center;
+    height: auto;
+    gap: 5em;
+    justify-content: flex-end;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nav__list {
+    display: flex;
+    margin: 0; /* Removes margin from one of the lists*/
+    gap: 1.5em;
+  }
+
+  .nav__item {
+    margin: 0;
+    gap: 1.5em;
+  }
+
+  .hero__text {
+    width: 62%;
+  }
+
+  .hero__img {
+    width: 32%;
+    align-self: flex-start;
+    margin: 0;
+  }
+
+  .primary-content {
+    width: 62%;
+  }
+
+  .sidebar {
+    width: 32%;
+  }
+}
+
+/*
+
+Steps when creating a desktop from a mobile first site:
+
+1) Create media querie
+2) Reset / remove margins put in place for mobile version
+3) Style!
+*/

@@ -7,6 +7,7 @@
 ## 😂 AHA Moments
 
 - **css**: Websites are responsive, if they are not its our own making.
+- **css **: Write Mobile first Layouts - add complexity as our screens get bigger, not smaller.
 
 ## 👨‍🎓 New Learnings & Thats why!
 
@@ -15,8 +16,8 @@
 - **css**: font-size: viewport min is also interesting on titles, not type.
 - **css**: img {align-self: flex-start} to retain size inside a flex element.
 - **BEM**: [BEM Naming Convention](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- **CSS**: [min-max-clamp-font-size](https://www.youtube.com/watch?v=U9VF-4euyRo)
-- **CSS**: Media queries / breakpoints - When your layout starts to FAIL. Dont over think it.
+- **css**: [min-max-clamp-font-size](https://www.youtube.com/watch?v=U9VF-4euyRo)
+- **css**: Media queries / breakpoints - When your layout starts to FAIL. Dont over think it.
 
 ---
 

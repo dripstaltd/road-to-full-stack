@@ -52,6 +52,7 @@ Below are some resources that I've found helpful along the way:
 - [Wes bos - CSSGrid](https://cssgrid.io/)
 - [Front End Mentor](https://frontendmentor.io)
 - [Great PDFs from flavio](https://flaviocopes.com/)
+- [Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM)
 
 ## ✍️ Notes
 

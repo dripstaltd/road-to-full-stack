@@ -16,6 +16,7 @@
 - **Visual Studio Code**: Code editor
 - **Chrome**: Dev tools
 - **FireFox**: As of 19/09/2024 I use Firefox for working with CSS!!
+- **Replit**: Currently using as a coding playground for JavaScript
 
 --
 

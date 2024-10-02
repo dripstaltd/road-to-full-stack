@@ -14,6 +14,7 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 - [x] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.
 - [ ] **Basic Algorithms**: Practice basic algorithm problems to improve problem-solving skills.
 - [ ] **Maths**: Practice basic arthmetics
+- [x] **Console**: Chrome Developer tools
 
 ### Bootcamp Topics
 
@@ -53,6 +54,7 @@ Below are some resources that I've found helpful along the way:
 - [Front End Mentor](https://frontendmentor.io)
 - [Great PDFs from flavio](https://flaviocopes.com/)
 - [Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM)
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/console)
 
 ## ✍️ Notes
 

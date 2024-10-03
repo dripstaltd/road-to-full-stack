@@ -8,4 +8,5 @@
 - **Edit & Preview .md:** Ctrl+K V
 - **Go to Definition:** F12
 - **Rename Symbol:** F2
-- **:**
+- **Focus Explorer:** Ctrl+Shift+E
+- **New File:** Ctrl+N

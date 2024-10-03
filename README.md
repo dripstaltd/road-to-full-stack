@@ -54,7 +54,7 @@ Below are some resources that I've found helpful along the way:
 - [Front End Mentor](https://frontendmentor.io)
 - [Great PDFs from flavio](https://flaviocopes.com/)
 - [Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM)
-- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/console)
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/console -[Chrome Dev Tools ShortCuts](https://developer.chrome.com/docs/devtools/shortcuts)
 
 ## ✍️ Notes
 

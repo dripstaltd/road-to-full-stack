@@ -10,22 +10,22 @@ Below is the list of tasks that I will be working on. I'll check them off as I c
 
 - [x] **HTML & CSS**: HTML and CSS basics, including Flexbox, Grid, and responsive design.
 - [x] **JavaScript Fundamentals**: Revisit JavaScript basics, including variables, functions, loops, and DOM manipulation.
-- [ ] **Command Line**: Get comfortable navigating and using commands in the terminal.
+- [x] **Command Line**: Get comfortable navigating and using commands in the terminal.
 - [x] **Git & GitHub**: Refresh knowledge on version control, branching, merging, and pull requests.
-- [ ] **Basic Algorithms**: Practice basic algorithm problems to improve problem-solving skills.
+- [x] **Basic Algorithms**: Practice basic algorithm problems to improve problem-solving skills.
 - [ ] **Maths**: Practice basic arthmetics
 - [x] **Console**: Chrome Developer tools
 
 ### Bootcamp Topics
 
-- [ ] **React Basics**: Learn the fundamentals of React, including components, state, and props.
-- [ ] **Node.js & Express**: Dive into backend development with Koa, MongoDB, Node.js and Express.
-- [ ] **Database Management**: Explore SQL further and NoSQL databases, focusing on MongoDB and PostgreSQL.
-- [ ] **APIs**: Gain a better understanding with how to build and consume APIs, including RESTful and GraphQL.
-- [ ] **Authentication**: Implement user authentication and authorization using JWT and OAuth.
+- [x] **React Basics**: Learn the fundamentals of React, including components, state, and props.
+- [x] **Node.js & Express**: Dive into backend development with Koa, MongoDB, Node.js and Express.
+- [x] **Database Management**: Explore SQL further and NoSQL databases, focusing on MongoDB and PostgreSQL.
+- [x] **APIs**: Gain a better understanding with how to build and consume APIs, including RESTful and GraphQL.
+- [x] **Authentication**: Implement user authentication and authorization using JWT and OAuth.
 - [ ] **Deployment**: Learn how to deploy applications using services like Heroku, Netlify, or Vercel.
 - [ ] **Other learnings**: Understand Redis, Docker and Redux
-- [ ] **Front-End Frameworks**: Brush up on React and become understand Angular
+- [x] **Front-End Frameworks**: Brush up on React and become understand Angular
 - [ ] **PHP**: Brush up on PHP
 
 ## 🌟 Completed
